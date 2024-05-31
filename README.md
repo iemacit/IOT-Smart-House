@@ -14,8 +14,9 @@ Projemizin amacı, evdeki güvenlik ve kontrol sistemlerini bir araya getirerek,
 - Kolay kurulum ve kullanım
 
 ### PROJEMİZİN BLYNK UYGULAMASI ÜZERİNDEKİ UI
+![](https://github.com/iemacit/IOT-Smart-House/blob/main/IOT-SMART%20HOUSE%20UI.png)
 
-![[Oluşturduğumuz devre şeması](https://github.com/iemacit/IOT-Smart-House/blob/main/Devre-Semasi.png](https://github.com/iemacit/IOT-Smart-House/blob/main/IOT-SMART%20HOUSE%20UI.png))
+
 
 ### PROJEDE KULLANILAN DONANIMLAR
 1 adetESP8266 NodeMCU, 1 adet Deprem Sensörü, 1 adet Gaz Sensörü, 1 adet Yağmur Sensörü, 1 adetUltrasonik Mesafe Sensörü, çokça Jumper kablo, 1 adet buzzer,4 adet led
